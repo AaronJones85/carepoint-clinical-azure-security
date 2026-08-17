@@ -25,3 +25,22 @@ Microsoft Azure | Azure Storage | Microsoft Entra ID | Azure RBAC | Log Analytic
 ## What I Learned
 
 This project gave me practical experience with cloud permissions, storage security, network restrictions, and monitoring. I also got experience troubleshooting access problems and using logs to understand why requests were allowed or denied.
+  ## Project Evidence
+
+### 1. Storage Security Configuration
+![Storage Security Settings](screenshots/01-storage-security-settings.png)
+
+### 2. RBAC Role Assignments
+![RBAC Role Assignments](screenshots/02-rbac-role-assignments.png)
+
+### 3. Clinical Records Container
+![Clinical Records Container](screenshots/03-clinical-records-container.png)
+
+### 4. RBAC Access Testing
+![RBAC Access Test](screenshots/04-rbac-access-test.png)
+
+### 5. Diagnostic Logging
+![Diagnostic Logging](screenshots/05-diagnostic-logging.png)
+
+### 6. Log Analytics Workspace
+![Log Analytics Workspace](screenshots/06-log-analytics-workspace.png)
